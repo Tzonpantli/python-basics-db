@@ -1,0 +1,2 @@
+1;nestor david solis sandoval;fisica;8.9
+3;sara romero flores;quimica;9.3
