@@ -1,0 +1,3 @@
+Id   |name   |lastname    |addres                |folio          |amount    |star
+          
+3    |Daniel |Castillo|Calzada Zaragoza|00000000000000000120|21345.10  |2015-12-10     
